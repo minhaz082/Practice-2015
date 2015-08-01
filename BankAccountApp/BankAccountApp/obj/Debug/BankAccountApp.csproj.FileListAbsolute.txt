@@ -1,0 +1,9 @@
+C:\Users\Minhaz-PC\Desktop\VS2013_Minhaz\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+C:\Users\Minhaz-PC\Desktop\VS2013_Minhaz\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+C:\Users\Minhaz-PC\Desktop\VS2013_Minhaz\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+C:\Users\Minhaz-PC\Desktop\VS2013_Minhaz\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+C:\Users\Minhaz-PC\Desktop\VS2013_Minhaz\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+C:\Users\Minhaz-PC\Desktop\VS2013_Minhaz\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+C:\Users\Minhaz-PC\Desktop\VS2013_Minhaz\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+C:\Users\Minhaz-PC\Desktop\VS2013_Minhaz\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+C:\Users\Minhaz-PC\Desktop\VS2013_Minhaz\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.BankAccountApp.resources
